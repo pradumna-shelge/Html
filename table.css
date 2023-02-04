@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 4;
+    border: solid 1px #dad3d3;
+    margin: auto;
+    width: 100%;;
+    align-items: center;
+    background-color: rgb(224, 60, 10);
+    color: rgb(240, 240, 240);
+    text-decoration: solid;
+    tab-size: 3px;
+  }
+  td{
+    border: solid 1px #dad9cd;
+    padding:1%;
+    width:fit-content;
+
+  }
+  th{
+    border: solid 1px #fdfdfc;
+    padding:1%;
+    width: fit-content;
+    align-items: center;
+  }
