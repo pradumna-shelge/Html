@@ -21,13 +21,13 @@ body {
 }
 .left {
 	position: initial;
-	background-color: rgb(126, 219, 231);
+	background-color: rgb(204, 198, 113);
 	padding: 20px;
 
 }
 .right {
 	position: initial;
-	background-color: rgb(162, 202, 206);
+	background-color: rgb(76, 228, 190);
 	padding: 20px;
 
 }
@@ -36,5 +36,5 @@ body {
 	margin-bottom: 30px;
 }
 .h2 {
-	background-color: rgb(4, 96, 150);
+	background-color: rgb(28, 80, 63);
 }
